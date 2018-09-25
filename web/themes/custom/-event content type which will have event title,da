@@ -1,0 +1,24 @@
+-event content type which will have event title,date,location,audiance=beginer,inter,exp;
+- 3 pages  -1st list all my events 
+           24     title
+           sept   desc
+                   read more  fb tw
+                   
+                   in side bar filter =    location & audience
+
+
+
+                   2nd up coming
+
+                   3rd--past 
+
+                   when we reach bottom of field it shld autoload
+
+            
+
+
+
+
+
+
+--home to filters title and author submit when clicked it shld not refresh	
